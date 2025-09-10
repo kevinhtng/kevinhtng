@@ -24,7 +24,9 @@ Currently deepening my skills in **cloud security** and creating demos to showca
 
 ---
 
-## 📫 Connect  
-[LinkedIn](https://www.linkedin.com/in/kevinhtnguyen/)
+## 📫 Connect 
+
+| [Contact Me](https://kevinhtng.github.io/realestate#contact) | [LinkedIn](https://www.linkedin.com/in/kevinhtnguyen/) |
+|---|---|
 
 ---
