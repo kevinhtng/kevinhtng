@@ -37,6 +37,7 @@ Currently deepening my skills in **cloud security** and creating demos to showca
 
 ## 📫 Connect 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kevinhtng.github.io/portfolio/)
+[![Contact Me](https://img.shields.io/badge/Contact_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](https://kevinhtng.github.io/portfolio/#contact)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinhtnguyen/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kevinhtng)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/kevin-nguyen.c9ec6cd5)
@@ -44,8 +45,3 @@ Currently deepening my skills in **cloud security** and creating demos to showca
 ---
 
 *Building with transparency: Many projects developed with AI assistance (Claude, ChatGPT) to work smarter and faster.*
-
-| [Contact Me](https://kevinhtng.github.io/realestate#contact) | [LinkedIn](https://www.linkedin.com/in/kevinhtnguyen/) |
-|---|---|
-
----
